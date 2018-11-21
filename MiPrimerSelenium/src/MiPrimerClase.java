@@ -19,7 +19,7 @@ public class MiPrimerClase {
 		
 		// Paso 5: Buscamos el elemento por id y escribimos adentro: Suso
 		robot.findElement(By.id("lst-ib")).sendKeys("Suso");
-		
+		//hola mundo
 	}
 
 }
